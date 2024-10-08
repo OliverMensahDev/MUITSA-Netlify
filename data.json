@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Brightfield Tech Academy",
+        "course": "Explorers Pack for JHS Graudates",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/89ab91c8-32c5-45e8-96ab-3208eedb22d8.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Brightfield Tech Academy",
+        "course": "Three years Anniversary",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/1398a21c-e43c-4c65-8ccc-c6cd42346cdb.JPG"
+    },
+    {
+        "id": 3,
+        "name": "Brightfield Tech Academy",
+        "course": "Outreach for schools",
+        "profilePicture": "https://muitsa.nyc3.digitaloceanspaces.com/FTv_SDoX0AEJ981.jpg"
+    }
+]
