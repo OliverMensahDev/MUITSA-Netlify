@@ -1,4 +1,5 @@
-const { MongoClient } = require('mongodb');
+
+import { MongoClient } from 'mongodb';
 
 const DB_URL = process.env['DB_URL'];
 const dbInstance = new MongoClient(DB_URL);
@@ -8,6 +9,7 @@ async function getParticipants() {
     let participants = await dbInstance.db('students').collection('participants').find().toArray();
 
     return {
+        statusCode: 200,
         "body": participants
     }
 }
